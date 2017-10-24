@@ -1,0 +1,42 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  color: #2d2d2d;
+}
+
+a {
+  color: red;
+}
+
+hover {
+  color: orange;
+}
+
+header {
+  color: white;
+  background-color:tomato;
+  text-align: center;
+  margin: 50px auto;
+  border-top: 20px;
+}
+
+.container {
+  width: 1140px;
+  text-align: center;
+  margin: 50px auto;
+}
+
+.button {
+  background-color: #e2574c;
+}
+
+header {
+  background-image: url('final-project-assets/images/kayak-bkgd.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
